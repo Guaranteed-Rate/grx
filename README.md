@@ -1,4 +1,4 @@
-# grx
+# Guaranteed Rate Browser Extension (GRX) [wip]
 
 Guaranteed Best Rate
 
