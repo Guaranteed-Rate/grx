@@ -1,6 +1,7 @@
 # Guaranteed Rate Browser Extension (GRX) [wip]
 
-Guaranteed Best Rate
+
+Mockup: https://cl.ly/0K0Z180l170H
 
 ## Install
 
