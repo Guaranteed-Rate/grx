@@ -1,7 +1,7 @@
 {
-  "name": "grx",
+  "name": "GuaranteedRate",
   "version": "0.0.1",
-  "description": "Guaranteed Best Rate",
+  "description": "Guaranteed Rate Chrome Extension",
   "scripts": {
     "dev": "webextension-toolbox dev",
     "build": "webextension-toolbox build"
